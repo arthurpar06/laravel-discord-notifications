@@ -2,9 +2,9 @@
 
 namespace Arthurpar06\LaravelDiscordNotifications\Tests;
 
+use Arthurpar06\LaravelDiscordNotifications\LaravelDiscordNotificationsServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Arthurpar06\LaravelDiscordNotifications\LaravelDiscordNotificationsServiceProvider;
 
 class TestCase extends Orchestra
 {
